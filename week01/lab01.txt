@@ -20,3 +20,8 @@ drwxr-xr-x  2 ratu.syafianisa StafCS 4096 Feb 17 16:10 week09
 drwxr-xr-x  2 ratu.syafianisa StafCS 4096 Feb 17 16:10 week10
 drwxr-xr-x  2 ratu.syafianisa StafCS 4096 Feb 17 16:10 xtra
 /home/fasilkom/mahasiswa/r/ratu.syafianisa/os171/week01
+Today is 
+Today is 
+Today is 17 Feb 2017 at 16:32:15
+Today is 17 Feb 2017 at 16:32:23
+Today is 17 Feb 2017 at 16:33:36
