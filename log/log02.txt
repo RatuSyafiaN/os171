@@ -1,0 +1,4 @@
+Week : w02- Date: 170222- StartTime:22- CategoryCode: LR- Detail: review tentang protection dan security
+Week: w02- Date:170224- StartTime:13- CategoryCode:LR- Detail:membaca tentang C
+Week: w02- Date:170225- StartTime:13- CategoryCode: PS- Detail: mengerjakan lab minggu kedua
+Week: w02- Date:170225- StartTime:14- CategoryCode: PS/DS- Detail: mengerjakan lab sambil berdiskusi dengan teman mengenai kesulitan 
